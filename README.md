@@ -1,1 +1,1 @@
-necessário executar os programa atravéz de um terminal
+necessário executar o programa atravéz de um terminal

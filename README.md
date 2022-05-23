@@ -1,0 +1,1 @@
+necessário executar os programa atravéz de um terminal
